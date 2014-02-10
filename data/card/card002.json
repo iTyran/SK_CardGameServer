@@ -1,0 +1,14 @@
+{
+  "Name": "小花猫",
+  "HP": 120,
+  "Attack": 300,
+  "Defence": 120,
+  "Speed": 120,
+  "Talent": 720,
+  "Drop": 50,
+  "Experience": 324,
+  "Skill": [
+    1,
+    2
+  ]
+}

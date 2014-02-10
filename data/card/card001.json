@@ -1,0 +1,12 @@
+{
+  "Name": "田园犬",
+  "HP": 120,
+  "Attack": 120,
+  "Defence": 120,
+  "Speed": 120,
+  "Talent": 720,
+  "Drop": 50,
+  "Experience": 324,
+  "Skill": [
+  ]
+}

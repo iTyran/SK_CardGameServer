@@ -1,0 +1,32 @@
+{
+  "Intro": "{gamename}欢迎你来到 {username} 给{gamename}留言，交流看法",
+  "Dialog": [
+    {
+      "Name": "姓名",
+      "Pic": "图片地址",
+      "Talk": "{username} 欢迎进入{gamename}!"
+    },
+    {
+      "Name": "{username}",
+      "Pic": "图片地址",
+      "Talk": "{username} 欢迎进入{gamename}!"
+    }
+  ],
+  "Monster": [
+    {
+      "ID": 1,
+      "Level": 1,
+      "Position": 1
+    },
+    {
+      "ID": 2,
+      "Level": 1,
+      "Position": 2
+    }
+  ],
+  "Award": [
+    1,
+    2
+  ],
+  "Vitality": 2
+}
