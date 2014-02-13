@@ -1,5 +1,9 @@
 # game server use golang and websocket
 
+## Card Game client
+
+[Github repo](https://github.com/iTyran/SK_CardGame)
+
 ## Login module
 Register
 ```
